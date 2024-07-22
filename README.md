@@ -60,25 +60,30 @@ The Student Management System is a web application designed to manage student an
 ### Admin Dashboard
 - **Statistics**: View the total number of students and staff.
 - **Recent Activities**: View recent activities such as newly added students or staff.
+![Admin Dashboard](dashboard.png)
 
 ### Student Management
 - **View Students**: See a list of all students.
 - **Add Student**: Add a new student to the system.
 - **Edit Student**: Modify existing student details.
 - **Delete Student**: Remove a student from the system.
+![Student Management](student_management.png)
 
 ### Staff Management
 - **View Staff**: See a list of all staff members.
 - **Add Staff**: Add a new staff member to the system.
 - **Edit Staff**: Modify existing staff details.
 - **Delete Staff**: Remove a staff member from the system.
+![Staff Management](staff_management.png)
 
 ### Home Page
 - **Hero Section**: Welcoming message and admin login link.
 - **Features Section**: Highlights the main features of the system.
+![Home Page](home_page.png)
 
 ### Contact Page
 - **Contact Form**: Allows users to send a message to the admin.
+![Contact Page](contact_page.png)
 
 ## Screenshots
 Include screenshots of the main pages and features to provide a visual overview of the application.
