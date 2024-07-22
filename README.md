@@ -27,7 +27,7 @@ The Student Management System is a web application designed to manage student an
 ### Steps
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/TheODDYSEY/student_management_system.git
+   git clone https://github.com/Nelissa-gitau/school_management_system
    ```
 
 2. **Move to Web Server Directory**:
