@@ -85,8 +85,6 @@ The Student Management System is a web application designed to manage student an
 - **Contact Form**: Allows users to send a message to the admin.
 ![Contact Page](contact.png)
 
-## Screenshots
-Include screenshots of the main pages and features to provide a visual overview of the application.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
